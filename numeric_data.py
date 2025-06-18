@@ -1,7 +1,7 @@
 # case 1
 num = 3
 
-print(3)
+print(num)
 
 # case 2
 num = 6
