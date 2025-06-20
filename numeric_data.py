@@ -25,7 +25,14 @@
 
 # case 4
 
-x = 10
-x **= 2
+# x = 10
+# x **= 2
 
-print(x)
+# print(x)
+
+# case 5
+
+str1 = 'Hello'
+str2 = 'World'
+
+print(str1 + " " + str2)
